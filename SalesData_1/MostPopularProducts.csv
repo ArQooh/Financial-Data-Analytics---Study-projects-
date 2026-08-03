@@ -1,0 +1,453 @@
+Product_Category,Sub_Category,Product,Age_Group,Total_Orders,Avg_OrdersPerPerson,Avg_OrderPrice
+Accessories,"Tires and Tubes","Patch Kit/8 Patches","Adults (35-64)",77331,15,2
+Accessories,"Bottles and Cages","Water Bottle - 30 oz.","Adults (35-64)",77297,15,5
+Accessories,"Bottles and Cages","Water Bottle - 30 oz.","Young Adults (25-34)",60894,16,5
+Accessories,"Tires and Tubes","Mountain Tire Tube","Adults (35-64)",53186,15,5
+Accessories,"Tires and Tubes","Patch Kit/8 Patches","Young Adults (25-34)",45540,15,2
+Accessories,"Tires and Tubes","Mountain Tire Tube","Young Adults (25-34)",36313,15,5
+Accessories,"Tires and Tubes","Patch Kit/8 Patches","Youth (<25)",33539,15,2
+Clothing,Caps,"AWC Logo Cap","Adults (35-64)",33027,16,9
+Accessories,Fenders,"Fender Set - Mountain","Adults (35-64)",32836,16,22
+Accessories,Helmets,"Sport-100 Helmet, Red","Adults (35-64)",32516,15,35
+Accessories,Helmets,"Sport-100 Helmet, Black","Adults (35-64)",31544,15,35
+Accessories,Helmets,"Sport-100 Helmet, Blue","Adults (35-64)",29970,15,35
+Accessories,"Tires and Tubes","Road Tire Tube","Adults (35-64)",27018,15,4
+Accessories,"Bottles and Cages","Water Bottle - 30 oz.","Youth (<25)",25307,15,5
+Accessories,"Tires and Tubes","Touring Tire Tube","Adults (35-64)",24378,15,5
+Clothing,Caps,"AWC Logo Cap","Young Adults (25-34)",23734,16,9
+Accessories,Helmets,"Sport-100 Helmet, Black","Young Adults (25-34)",22670,15,35
+Accessories,"Bottles and Cages","Mountain Bottle Cage","Adults (35-64)",21903,15,10
+Accessories,"Bottles and Cages","Road Bottle Cage","Adults (35-64)",21244,15,9
+Accessories,Helmets,"Sport-100 Helmet, Red","Young Adults (25-34)",20359,15,35
+Accessories,"Tires and Tubes","Road Tire Tube","Young Adults (25-34)",20032,15,4
+Accessories,Fenders,"Fender Set - Mountain","Young Adults (25-34)",19925,15,22
+Accessories,Helmets,"Sport-100 Helmet, Blue","Young Adults (25-34)",17986,15,35
+Accessories,"Tires and Tubes","Touring Tire Tube","Young Adults (25-34)",16146,16,5
+Accessories,"Tires and Tubes","Touring Tire Tube","Youth (<25)",15498,15,5
+Accessories,"Tires and Tubes","Road Tire Tube","Youth (<25)",14490,15,4
+Accessories,Cleaners,"Bike Wash - Dissolver","Adults (35-64)",14400,15,8
+Accessories,"Tires and Tubes","HL Mountain Tire","Adults (35-64)",13953,15,35
+Accessories,"Bottles and Cages","Road Bottle Cage","Young Adults (25-34)",12791,15,9
+Accessories,"Tires and Tubes","Mountain Tire Tube","Youth (<25)",12621,15,5
+Accessories,"Tires and Tubes","LL Road Tire","Young Adults (25-34)",12162,16,21
+Accessories,"Hydration Packs","Hydration Pack - 70 oz.","Adults (35-64)",11102,15,55
+Accessories,"Tires and Tubes","ML Mountain Tire","Adults (35-64)",10823,15,30
+Accessories,"Tires and Tubes","LL Road Tire","Adults (35-64)",10785,16,21
+Accessories,"Tires and Tubes","HL Mountain Tire","Young Adults (25-34)",10738,16,35
+Accessories,Helmets,"Sport-100 Helmet, Red","Youth (<25)",10550,15,35
+Accessories,"Tires and Tubes","HL Road Tire","Adults (35-64)",10298,15,33
+Clothing,Caps,"AWC Logo Cap","Youth (<25)",10235,14,9
+Accessories,"Tires and Tubes","ML Road Tire","Adults (35-64)",8896,15,25
+Accessories,Fenders,"Fender Set - Mountain","Youth (<25)",8832,14,22
+Accessories,Cleaners,"Bike Wash - Dissolver","Young Adults (25-34)",8554,15,8
+Accessories,"Bottles and Cages","Mountain Bottle Cage","Young Adults (25-34)",8444,16,10
+Accessories,"Tires and Tubes","LL Mountain Tire","Adults (35-64)",8120,16,25
+Accessories,"Tires and Tubes","ML Road Tire","Young Adults (25-34)",7487,15,25
+Accessories,Helmets,"Sport-100 Helmet, Black","Youth (<25)",7379,14,35
+Accessories,Helmets,"Sport-100 Helmet, Blue","Youth (<25)",7362,14,35
+Clothing,Gloves,"Half-Finger Gloves, M","Adults (35-64)",7283,15,24
+Accessories,"Tires and Tubes","ML Mountain Tire","Young Adults (25-34)",7180,16,30
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, XL","Adults (35-64)",7158,15,50
+Clothing,Gloves,"Half-Finger Gloves, S","Adults (35-64)",7018,15,24
+Accessories,"Bottles and Cages","Mountain Bottle Cage","Youth (<25)",6568,15,10
+Clothing,Gloves,"Half-Finger Gloves, L","Adults (35-64)",6355,15,24
+Clothing,Shorts,"Women's Mountain Shorts, M","Adults (35-64)",6258,16,70
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, L","Young Adults (25-34)",6081,14,50
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, S","Adults (35-64)",6056,15,50
+Accessories,"Bottles and Cages","Road Bottle Cage","Youth (<25)",6053,16,9
+Accessories,"Hydration Packs","Hydration Pack - 70 oz.","Young Adults (25-34)",5891,15,55
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, S","Adults (35-64)",5875,15,54
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, L","Adults (35-64)",5762,17,50
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, M","Adults (35-64)",5342,15,50
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, L","Adults (35-64)",5175,15,54
+Clothing,Gloves,"Half-Finger Gloves, S","Young Adults (25-34)",4973,15,24
+Clothing,Shorts,"Women's Mountain Shorts, S","Adults (35-64)",4968,16,70
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, M","Adults (35-64)",4683,16,54
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, XL","Adults (35-64)",4418,15,54
+Clothing,Gloves,"Half-Finger Gloves, L","Young Adults (25-34)",4414,14,24
+Accessories,Cleaners,"Bike Wash - Dissolver","Youth (<25)",4368,16,8
+Accessories,"Tires and Tubes","ML Road Tire","Youth (<25)",4178,15,25
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, M","Young Adults (25-34)",4165,14,50
+Clothing,Shorts,"Women's Mountain Shorts, L","Adults (35-64)",4151,15,70
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, L","Young Adults (25-34)",4146,14,54
+Accessories,"Tires and Tubes","Touring Tire","Young Adults (25-34)",4144,15,29
+Clothing,Socks,"Racing Socks, M","Adults (35-64)",4100,16,9
+Accessories,"Tires and Tubes","Touring Tire","Adults (35-64)",4062,17,29
+Clothing,Socks,"Racing Socks, M","Young Adults (25-34)",4000,17,9
+Clothing,Socks,"Racing Socks, L","Adults (35-64)",3946,16,9
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, S","Young Adults (25-34)",3791,15,54
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, M","Young Adults (25-34)",3576,15,54
+Accessories,"Tires and Tubes","LL Mountain Tire","Young Adults (25-34)",3565,14,25
+Accessories,"Tires and Tubes","LL Road Tire","Youth (<25)",3542,14,21
+Clothing,Gloves,"Half-Finger Gloves, M","Young Adults (25-34)",3304,15,24
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, S","Young Adults (25-34)",3279,14,50
+Accessories,"Tires and Tubes","HL Road Tire","Young Adults (25-34)",3263,15,33
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, XL","Young Adults (25-34)",3068,13,54
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, XL","Young Adults (25-34)",3024,14,50
+Clothing,Shorts,"Women's Mountain Shorts, S","Young Adults (25-34)",2971,15,70
+Clothing,Vests,"Classic Vest, S","Adults (35-64)",2871,15,64
+Accessories,"Tires and Tubes","HL Mountain Tire","Youth (<25)",2860,15,35
+Accessories,"Bike Racks","Hitch Rack - 4-Bike","Adults (35-64)",2850,9,120
+Accessories,"Tires and Tubes","ML Mountain Tire","Youth (<25)",2731,16,30
+Clothing,Gloves,"Half-Finger Gloves, S","Youth (<25)",2687,15,24
+Accessories,"Hydration Packs","Hydration Pack - 70 oz.","Youth (<25)",2674,14,55
+Clothing,Socks,"Racing Socks, L","Young Adults (25-34)",2674,16,9
+Clothing,Shorts,"Women's Mountain Shorts, L","Young Adults (25-34)",2623,15,70
+Clothing,Vests,"Classic Vest, L","Adults (35-64)",2454,15,64
+Clothing,Gloves,"Half-Finger Gloves, L","Youth (<25)",2303,15,24
+Clothing,Vests,"Classic Vest, M","Adults (35-64)",2160,15,64
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, L","Youth (<25)",2097,17,50
+Clothing,Shorts,"Women's Mountain Shorts, M","Youth (<25)",2061,17,70
+Clothing,Shorts,"Women's Mountain Shorts, M","Young Adults (25-34)",1972,15,70
+Clothing,Vests,"Classic Vest, M","Young Adults (25-34)",1960,17,64
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, S","Youth (<25)",1878,14,54
+Accessories,"Tires and Tubes","HL Road Tire","Youth (<25)",1863,17,33
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, XL","Youth (<25)",1758,12,54
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, M","Youth (<25)",1690,14,50
+Accessories,"Tires and Tubes","Touring Tire","Youth (<25)",1585,15,29
+Clothing,Vests,"Classic Vest, S","Young Adults (25-34)",1560,18,64
+Accessories,"Bike Racks","Hitch Rack - 4-Bike","Young Adults (25-34)",1520,8,120
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, S","Youth (<25)",1472,14,50
+Clothing,Socks,"Racing Socks, L","Youth (<25)",1467,14,9
+Clothing,Vests,"Classic Vest, L","Young Adults (25-34)",1390,14,64
+Clothing,Gloves,"Half-Finger Gloves, M","Youth (<25)",1388,16,24
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, XL","Youth (<25)",1367,15,50
+Clothing,Shorts,"Women's Mountain Shorts, S","Youth (<25)",1267,13,70
+Clothing,Socks,"Racing Socks, M","Youth (<25)",1244,16,9
+Accessories,"Bike Stands","All-Purpose Bike Stand","Adults (35-64)",1215,5,159
+Accessories,"Tires and Tubes","Patch Kit/8 Patches","Seniors (64+)",1173,15,2
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, L","Youth (<25)",1070,12,54
+Bikes,"Mountain Bikes","Mountain-200 Black, 38","Young Adults (25-34)",830,1,2295
+Clothing,Shorts,"Women's Mountain Shorts, L","Youth (<25)",827,14,70
+Accessories,"Tires and Tubes","LL Mountain Tire","Youth (<25)",796,15,25
+Accessories,"Tires and Tubes","Touring Tire Tube","Seniors (64+)",780,18,5
+Bikes,"Mountain Bikes","Mountain-200 Black, 42","Adults (35-64)",765,1,2295
+Bikes,"Mountain Bikes","Mountain-200 Silver, 38","Adults (35-64)",761,1,2320
+Bikes,"Mountain Bikes","Mountain-200 Silver, 42","Adults (35-64)",756,1,2320
+Accessories,"Tires and Tubes","Road Tire Tube","Seniors (64+)",756,14,4
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, M","Youth (<25)",726,11,54
+Accessories,"Bike Stands","All-Purpose Bike Stand","Young Adults (25-34)",723,5,159
+Clothing,Vests,"Classic Vest, M","Youth (<25)",709,14,64
+Bikes,"Mountain Bikes","Mountain-200 Black, 38","Adults (35-64)",700,1,2295
+Accessories,"Tires and Tubes","Mountain Tire Tube","Seniors (64+)",672,15,5
+Bikes,"Mountain Bikes","Mountain-200 Black, 46","Adults (35-64)",657,1,2295
+Clothing,Vests,"Classic Vest, L","Youth (<25)",650,15,64
+Bikes,"Road Bikes","Road-750 Black, 48","Adults (35-64)",629,2,540
+Bikes,"Road Bikes","Road-750 Black, 48","Young Adults (25-34)",593,1,540
+Accessories,"Bottles and Cages","Water Bottle - 30 oz.","Seniors (64+)",584,15,5
+Accessories,Helmets,"Sport-100 Helmet, Blue","Seniors (64+)",577,14,35
+Accessories,"Bottles and Cages","Mountain Bottle Cage","Seniors (64+)",565,19,10
+Bikes,"Road Bikes","Road-150 Red, 62","Young Adults (25-34)",565,1,3578
+Bikes,"Mountain Bikes","Mountain-200 Silver, 38","Young Adults (25-34)",536,1,2320
+Bikes,"Mountain Bikes","Mountain-200 Silver, 46","Adults (35-64)",531,1,2320
+Bikes,"Road Bikes","Road-150 Red, 52","Adults (35-64)",521,1,3578
+Bikes,"Mountain Bikes","Mountain-200 Black, 46","Young Adults (25-34)",516,1,2295
+Accessories,Fenders,"Fender Set - Mountain","Seniors (64+)",488,15,22
+Clothing,Vests,"Classic Vest, S","Youth (<25)",473,10,64
+Bikes,"Road Bikes","Road-150 Red, 56","Adults (35-64)",466,1,3578
+Accessories,Helmets,"Sport-100 Helmet, Black","Seniors (64+)",455,13,35
+Bikes,"Mountain Bikes","Mountain-200 Silver, 46","Young Adults (25-34)",447,1,2320
+Accessories,"Bike Stands","All-Purpose Bike Stand","Youth (<25)",444,6,159
+Bikes,"Road Bikes","Road-150 Red, 48","Adults (35-64)",444,1,3578
+Bikes,"Road Bikes","Road-150 Red, 62","Adults (35-64)",430,1,3578
+Accessories,"Tires and Tubes","Touring Tire","Seniors (64+)",430,13,29
+Bikes,"Mountain Bikes","Mountain-200 Silver, 42","Young Adults (25-34)",421,1,2320
+Bikes,"Road Bikes","Road-550-W Yellow, 48","Adults (35-64)",419,1,1120
+Bikes,"Road Bikes","Road-750 Black, 44","Adults (35-64)",401,2,540
+Bikes,"Road Bikes","Road-750 Black, 52","Adults (35-64)",395,2,540
+Bikes,"Road Bikes","Road-150 Red, 56","Young Adults (25-34)",384,1,3578
+Bikes,"Road Bikes","Road-350-W Yellow, 48","Young Adults (25-34)",367,2,1701
+Bikes,"Road Bikes","Road-750 Black, 44","Young Adults (25-34)",364,1,540
+Accessories,"Bike Racks","Hitch Rack - 4-Bike","Youth (<25)",363,6,120
+Bikes,"Road Bikes","Road-250 Black, 52","Young Adults (25-34)",360,2,2443
+Bikes,"Mountain Bikes","Mountain-200 Black, 42","Young Adults (25-34)",351,1,2295
+Bikes,"Road Bikes","Road-150 Red, 44","Adults (35-64)",331,1,3578
+Bikes,"Road Bikes","Road-750 Black, 52","Young Adults (25-34)",329,1,540
+Bikes,"Road Bikes","Road-150 Red, 48","Young Adults (25-34)",320,1,3578
+Bikes,"Road Bikes","Road-550-W Yellow, 44","Adults (35-64)",320,1,1120
+Bikes,"Road Bikes","Road-350-W Yellow, 40","Adults (35-64)",314,1,1701
+Bikes,"Road Bikes","Road-350-W Yellow, 48","Adults (35-64)",314,1,1701
+Bikes,"Road Bikes","Road-250 Black, 52","Adults (35-64)",305,2,2443
+Bikes,"Road Bikes","Road-350-W Yellow, 42","Young Adults (25-34)",305,1,1701
+Accessories,"Tires and Tubes","ML Road Tire","Seniors (64+)",304,13,25
+Bikes,"Road Bikes","Road-550-W Yellow, 38","Young Adults (25-34)",302,1,1120
+Bikes,"Road Bikes","Road-350-W Yellow, 42","Adults (35-64)",299,2,1701
+Bikes,"Road Bikes","Road-250 Red, 58","Adults (35-64)",296,1,2443
+Bikes,"Road Bikes","Road-150 Red, 52","Young Adults (25-34)",295,1,3578
+Bikes,"Road Bikes","Road-250 Red, 48","Adults (35-64)",294,1,2443
+Bikes,"Road Bikes","Road-550-W Yellow, 42","Adults (35-64)",292,1,1120
+Bikes,"Road Bikes","Road-550-W Yellow, 44","Young Adults (25-34)",288,1,1120
+Bikes,"Mountain Bikes","Mountain-200 Silver, 42","Youth (<25)",278,1,2320
+Bikes,"Road Bikes","Road-250 Black, 58","Adults (35-64)",277,1,2443
+Bikes,"Road Bikes","Road-550-W Yellow, 40","Adults (35-64)",275,1,1120
+Clothing,Caps,"AWC Logo Cap","Seniors (64+)",268,12,9
+Accessories,"Tires and Tubes","LL Mountain Tire","Seniors (64+)",263,19,25
+Accessories,"Tires and Tubes","ML Mountain Tire","Seniors (64+)",258,14,30
+Bikes,"Mountain Bikes","Mountain-400-W Silver, 38","Young Adults (25-34)",249,1,769
+Bikes,"Road Bikes","Road-750 Black, 44","Youth (<25)",247,2,540
+Accessories,Helmets,"Sport-100 Helmet, Red","Seniors (64+)",238,12,35
+Bikes,"Road Bikes","Road-250 Red, 58","Young Adults (25-34)",235,1,2443
+Bikes,"Road Bikes","Road-350-W Yellow, 44","Adults (35-64)",230,2,1701
+Bikes,"Touring Bikes","Touring-1000 Blue, 46","Adults (35-64)",224,1,2384
+Bikes,"Road Bikes","Road-550-W Yellow, 42","Young Adults (25-34)",220,1,1120
+Bikes,"Mountain Bikes","Mountain-400-W Silver, 46","Young Adults (25-34)",217,1,769
+Bikes,"Road Bikes","Road-250 Black, 44","Young Adults (25-34)",217,2,2443
+Bikes,"Road Bikes","Road-250 Black, 48","Adults (35-64)",212,2,2443
+Bikes,"Touring Bikes","Touring-1000 Yellow, 50","Adults (35-64)",212,1,2384
+Bikes,"Road Bikes","Road-550-W Yellow, 42","Youth (<25)",211,2,1120
+Bikes,"Road Bikes","Road-750 Black, 58","Adults (35-64)",208,1,540
+Bikes,"Mountain Bikes","Mountain-400-W Silver, 42","Young Adults (25-34)",206,1,769
+Bikes,"Touring Bikes","Touring-1000 Yellow, 60","Adults (35-64)",206,1,2384
+Bikes,"Road Bikes","Road-550-W Yellow, 38","Adults (35-64)",201,2,1120
+Accessories,Cleaners,"Bike Wash - Dissolver","Seniors (64+)",200,13,8
+Bikes,"Road Bikes","Road-250 Black, 44","Adults (35-64)",200,1,2443
+Bikes,"Touring Bikes","Touring-1000 Yellow, 46","Adults (35-64)",197,1,2384
+Bikes,"Road Bikes","Road-150 Red, 62","Youth (<25)",192,1,3578
+Accessories,"Hydration Packs","Hydration Pack - 70 oz.","Seniors (64+)",190,16,55
+Bikes,"Touring Bikes","Touring-1000 Blue, 60","Adults (35-64)",190,1,2384
+Bikes,"Road Bikes","Road-150 Red, 48","Youth (<25)",188,2,3578
+Accessories,"Tires and Tubes","HL Road Tire","Seniors (64+)",186,13,33
+Bikes,"Road Bikes","Road-750 Black, 58","Young Adults (25-34)",185,1,540
+Bikes,"Road Bikes","Road-650 Red, 62","Adults (35-64)",185,2,783
+Clothing,Socks,"Racing Socks, M","Seniors (64+)",185,19,9
+Bikes,"Road Bikes","Road-150 Red, 44","Young Adults (25-34)",182,1,3578
+Bikes,"Road Bikes","Road-550-W Yellow, 40","Young Adults (25-34)",178,1,1120
+Bikes,"Road Bikes","Road-250 Black, 58","Young Adults (25-34)",177,2,2443
+Bikes,"Mountain Bikes","Mountain-200 Black, 46","Youth (<25)",176,1,2295
+Bikes,"Mountain Bikes","Mountain-200 Silver, 38","Youth (<25)",174,1,2320
+Bikes,"Mountain Bikes","Mountain-200 Silver, 46","Youth (<25)",168,1,2320
+Bikes,"Road Bikes","Road-350-W Yellow, 40","Young Adults (25-34)",168,2,1701
+Bikes,"Touring Bikes","Touring-1000 Blue, 54","Adults (35-64)",165,1,2384
+Bikes,"Road Bikes","Road-150 Red, 52","Youth (<25)",164,1,3578
+Bikes,"Touring Bikes","Touring-1000 Blue, 50","Adults (35-64)",163,1,2384
+Bikes,"Mountain Bikes","Mountain-200 Black, 42","Youth (<25)",162,2,2295
+Bikes,"Road Bikes","Road-550-W Yellow, 48","Young Adults (25-34)",161,1,1120
+Bikes,"Touring Bikes","Touring-1000 Yellow, 50","Young Adults (25-34)",161,1,2384
+Bikes,"Touring Bikes","Touring-1000 Yellow, 54","Young Adults (25-34)",160,1,2384
+Bikes,"Mountain Bikes","Mountain-400-W Silver, 46","Adults (35-64)",159,1,769
+Bikes,"Road Bikes","Road-250 Red, 48","Young Adults (25-34)",158,2,2443
+Clothing,Vests,"Classic Vest, L","Seniors (64+)",157,26,64
+Bikes,"Mountain Bikes","Mountain-400-W Silver, 38","Adults (35-64)",154,1,769
+Bikes,"Road Bikes","Road-750 Black, 52","Youth (<25)",154,2,540
+Bikes,"Mountain Bikes","Mountain-400-W Silver, 40","Adults (35-64)",152,1,769
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, M","Seniors (64+)",148,25,50
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, M","Seniors (64+)",148,15,54
+Bikes,"Touring Bikes","Touring-2000 Blue, 50","Adults (35-64)",146,1,1215
+Bikes,"Road Bikes","Road-150 Red, 56","Youth (<25)",140,2,3578
+Bikes,"Road Bikes","Road-250 Black, 44","Youth (<25)",134,2,2443
+Bikes,"Road Bikes","Road-250 Red, 52","Adults (35-64)",133,2,2443
+Bikes,"Road Bikes","Road-250 Black, 48","Young Adults (25-34)",133,2,2443
+Bikes,"Mountain Bikes","Mountain-500 Silver, 42","Adults (35-64)",131,1,565
+Bikes,"Touring Bikes","Touring-2000 Blue, 46","Adults (35-64)",129,1,1215
+Bikes,"Mountain Bikes","Mountain-500 Silver, 40","Adults (35-64)",127,1,565
+Bikes,"Touring Bikes","Touring-1000 Yellow, 54","Adults (35-64)",127,1,2384
+Bikes,"Road Bikes","Road-650 Red, 48","Adults (35-64)",124,1,783
+Bikes,"Touring Bikes","Touring-1000 Blue, 46","Young Adults (25-34)",122,1,2384
+Bikes,"Road Bikes","Road-250 Red, 44","Adults (35-64)",121,1,2443
+Clothing,Gloves,"Half-Finger Gloves, S","Seniors (64+)",116,19,24
+Bikes,"Road Bikes","Road-650 Red, 48","Youth (<25)",115,1,783
+Bikes,"Mountain Bikes","Mountain-500 Black, 44","Adults (35-64)",114,1,540
+Bikes,"Road Bikes","Road-550-W Yellow, 40","Youth (<25)",113,2,1120
+Bikes,"Touring Bikes","Touring-2000 Blue, 60","Adults (35-64)",113,1,1215
+Bikes,"Mountain Bikes","Mountain-200 Black, 38","Youth (<25)",112,1,2295
+Bikes,"Mountain Bikes","Mountain-400-W Silver, 42","Adults (35-64)",112,1,769
+Bikes,"Mountain Bikes","Mountain-500 Black, 40","Young Adults (25-34)",109,1,540
+Bikes,"Road Bikes","Road-350-W Yellow, 42","Youth (<25)",108,2,1701
+Bikes,"Touring Bikes","Touring-1000 Yellow, 60","Young Adults (25-34)",108,1,2384
+Bikes,"Touring Bikes","Touring-1000 Blue, 50","Young Adults (25-34)",108,1,2384
+Bikes,"Touring Bikes","Touring-3000 Yellow, 50","Young Adults (25-34)",108,1,742
+Bikes,"Touring Bikes","Touring-1000 Yellow, 46","Young Adults (25-34)",106,1,2384
+Bikes,"Touring Bikes","Touring-2000 Blue, 54","Young Adults (25-34)",105,1,1215
+Bikes,"Road Bikes","Road-150 Red, 44","Youth (<25)",100,2,3578
+Bikes,"Road Bikes","Road-350-W Yellow, 44","Young Adults (25-34)",99,2,1701
+Bikes,"Road Bikes","Road-750 Black, 58","Youth (<25)",99,1,540
+Bikes,"Touring Bikes","Touring-2000 Blue, 50","Young Adults (25-34)",97,1,1215
+Accessories,"Tires and Tubes","LL Road Tire","Seniors (64+)",95,16,21
+Bikes,"Road Bikes","Road-250 Red, 52","Young Adults (25-34)",92,1,2443
+Bikes,"Mountain Bikes","Mountain-500 Black, 42","Adults (35-64)",91,1,540
+Bikes,"Mountain Bikes","Mountain-500 Black, 44","Young Adults (25-34)",90,1,540
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, S","Seniors (64+)",89,15,50
+Bikes,"Mountain Bikes","Mountain-500 Black, 48","Young Adults (25-34)",89,1,540
+Bikes,"Road Bikes","Road-250 Black, 58","Youth (<25)",89,2,2443
+Bikes,"Road Bikes","Road-250 Black, 52","Youth (<25)",89,2,2443
+Bikes,"Road Bikes","Road-650 Red, 60","Adults (35-64)",89,1,783
+Bikes,"Road Bikes","Road-650 Red, 44","Young Adults (25-34)",89,2,783
+Bikes,"Road Bikes","Road-650 Black, 62","Adults (35-64)",88,1,783
+Bikes,"Road Bikes","Road-350-W Yellow, 40","Youth (<25)",88,1,1701
+Bikes,"Road Bikes","Road-650 Black, 60","Young Adults (25-34)",86,1,783
+Bikes,"Road Bikes","Road-650 Black, 44","Adults (35-64)",84,1,783
+Bikes,"Touring Bikes","Touring-3000 Blue, 44","Adults (35-64)",84,1,742
+Bikes,"Road Bikes","Road-550-W Yellow, 44","Youth (<25)",82,1,1120
+Clothing,Gloves,"Half-Finger Gloves, L","Seniors (64+)",81,20,24
+Bikes,"Road Bikes","Road-250 Red, 44","Youth (<25)",81,2,2443
+Bikes,"Road Bikes","Road-650 Black, 58","Young Adults (25-34)",81,2,783
+Bikes,"Road Bikes","Road-650 Black, 52","Adults (35-64)",80,1,783
+Bikes,"Mountain Bikes","Mountain-400-W Silver, 40","Young Adults (25-34)",79,1,769
+Bikes,"Road Bikes","Road-350-W Yellow, 44","Youth (<25)",79,2,1701
+Bikes,"Touring Bikes","Touring-1000 Blue, 54","Young Adults (25-34)",78,1,2384
+Bikes,"Road Bikes","Road-650 Red, 58","Adults (35-64)",77,1,783
+Accessories,"Bottles and Cages","Road Bottle Cage","Seniors (64+)",76,13,9
+Bikes,"Road Bikes","Road-250 Black, 48","Youth (<25)",76,1,2443
+Bikes,"Touring Bikes","Touring-2000 Blue, 46","Young Adults (25-34)",76,1,1215
+Bikes,"Mountain Bikes","Mountain-500 Black, 40","Adults (35-64)",75,1,540
+Bikes,"Touring Bikes","Touring-3000 Yellow, 44","Young Adults (25-34)",75,1,742
+Bikes,"Road Bikes","Road-550-W Yellow, 38","Youth (<25)",74,2,1120
+Bikes,"Touring Bikes","Touring-3000 Blue, 58","Adults (35-64)",73,1,742
+Bikes,"Touring Bikes","Touring-3000 Yellow, 44","Adults (35-64)",70,1,742
+Bikes,"Touring Bikes","Touring-3000 Yellow, 54","Young Adults (25-34)",70,1,742
+Bikes,"Road Bikes","Road-650 Red, 62","Young Adults (25-34)",68,2,783
+Bikes,"Touring Bikes","Touring-3000 Blue, 62","Adults (35-64)",67,1,742
+Bikes,"Road Bikes","Road-650 Red, 58","Young Adults (25-34)",66,1,783
+Bikes,"Road Bikes","Road-650 Black, 62","Young Adults (25-34)",65,1,783
+Bikes,"Road Bikes","Road-750 Black, 48","Youth (<25)",65,2,540
+Bikes,"Touring Bikes","Touring-3000 Yellow, 54","Adults (35-64)",65,1,742
+Bikes,"Road Bikes","Road-350-W Yellow, 48","Youth (<25)",64,2,1701
+Bikes,"Road Bikes","Road-650 Black, 48","Young Adults (25-34)",62,1,783
+Bikes,"Mountain Bikes","Mountain-400-W Silver, 38","Youth (<25)",61,1,769
+Bikes,"Road Bikes","Road-650 Black, 60","Adults (35-64)",61,2,783
+Bikes,"Mountain Bikes","Mountain-400-W Silver, 42","Youth (<25)",60,1,769
+Bikes,"Road Bikes","Road-650 Red, 48","Young Adults (25-34)",60,1,783
+Bikes,"Mountain Bikes","Mountain-400-W Silver, 46","Youth (<25)",58,1,769
+Accessories,Fenders,"Bike Wash - Dissolver","Young Adults (25-34)",57,14,8
+Accessories,"Hydration Packs","Sport-100 Helmet, Black","Youth (<25)",57,29,35
+Bikes,"Mountain Bikes","Mountain-100 Black, 44","Adults (35-64)",57,1,3375
+Bikes,"Mountain Bikes","Mountain-100 Black, 48","Adults (35-64)",57,1,3375
+Bikes,"Mountain Bikes","Mountain-100 Silver, 44","Adults (35-64)",57,1,3400
+Bikes,"Road Bikes","Road-650 Red, 60","Young Adults (25-34)",57,1,783
+Bikes,"Touring Bikes","Touring-3000 Blue, 62","Young Adults (25-34)",57,1,742
+Clothing,Vests,"Touring-1000 Yellow, 50","Adults (35-64)",56,28,2384
+Bikes,"Touring Bikes","Touring-3000 Yellow, 58","Adults (35-64)",54,1,742
+Bikes,"Road Bikes","Road-650 Black, 48","Adults (35-64)",53,2,783
+Bikes,"Touring Bikes","Touring-2000 Blue, 60","Young Adults (25-34)",53,1,1215
+Accessories,Cleaners,"AWC Logo Cap","Youth (<25)",52,26,9
+Bikes,"Mountain Bikes","Mountain-100 Silver, 38","Young Adults (25-34)",52,1,3400
+Bikes,"Road Bikes","Road-650 Black, 58","Adults (35-64)",52,1,783
+Bikes,"Touring Bikes","Touring-3000 Yellow, 62","Adults (35-64)",52,1,742
+Bikes,"Touring Bikes","Touring-2000 Blue, 54","Adults (35-64)",52,1,1215
+Bikes,"Mountain Bikes","Mountain-100 Silver, 38","Adults (35-64)",51,1,3400
+Bikes,"Road Bikes","Road-250 Red, 58","Youth (<25)",51,2,2443
+Bikes,"Touring Bikes","Touring-1000 Blue, 60","Young Adults (25-34)",50,1,2384
+Bikes,"Mountain Bikes","Mountain-500 Silver, 40","Youth (<25)",49,1,565
+Bikes,"Road Bikes","Road-250 Red, 44","Young Adults (25-34)",49,1,2443
+Bikes,"Touring Bikes","Touring-3000 Blue, 58","Young Adults (25-34)",47,1,742
+Clothing,Vests,"Classic Vest, M","Seniors (64+)",47,8,64
+Bikes,"Road Bikes","Road-650 Black, 58","Youth (<25)",46,1,783
+Bikes,"Mountain Bikes","Mountain-500 Silver, 52","Youth (<25)",45,2,565
+Clothing,Jerseys,"Short-Sleeve Classic Jersey, L","Seniors (64+)",44,7,54
+Bikes,"Mountain Bikes","Mountain-100 Black, 42","Adults (35-64)",44,1,3375
+Bikes,"Road Bikes","Road-650 Black, 52","Young Adults (25-34)",44,1,783
+Bikes,"Touring Bikes","Touring-3000 Blue, 54","Young Adults (25-34)",44,1,742
+Bikes,"Mountain Bikes","Mountain-500 Silver, 44","Adults (35-64)",43,1,565
+Bikes,"Mountain Bikes","Mountain-100 Silver, 42","Young Adults (25-34)",42,2,3400
+Bikes,"Mountain Bikes","Mountain-500 Black, 48","Adults (35-64)",42,2,540
+Clothing,Socks,"Women's Mountain Shorts, S","Youth (<25)",42,11,70
+Bikes,"Mountain Bikes","Mountain-100 Silver, 48","Adults (35-64)",40,1,3400
+Clothing,Jerseys,"Long-Sleeve Logo Jersey, L","Seniors (64+)",39,20,50
+Bikes,"Mountain Bikes","Mountain-100 Black, 38","Adults (35-64)",39,1,3375
+Clothing,Vests,"Classic Vest, S","Seniors (64+)",39,10,64
+Bikes,"Touring Bikes","Touring-1000 Blue, 46","Youth (<25)",38,1,2384
+Clothing,Gloves,"Fender Set - Mountain","Young Adults (25-34)",37,9,22
+Bikes,"Mountain Bikes","Mountain-100 Silver, 48","Young Adults (25-34)",35,2,3400
+Bikes,"Touring Bikes","Touring-3000 Blue, 44","Young Adults (25-34)",35,1,742
+Bikes,"Touring Bikes","Touring-3000 Yellow, 58","Young Adults (25-34)",35,1,742
+Bikes,"Touring Bikes","Touring-2000 Blue, 46","Youth (<25)",35,1,1215
+Bikes,"Mountain Bikes","Mountain-400-W Silver, 40","Youth (<25)",34,1,769
+Bikes,"Mountain Bikes","Mountain-500 Silver, 42","Young Adults (25-34)",34,1,565
+Bikes,"Mountain Bikes","Mountain-500 Silver, 44","Young Adults (25-34)",34,1,565
+Bikes,"Touring Bikes","Touring-1000 Blue, 54","Youth (<25)",34,1,2384
+Bikes,"Mountain Bikes","Mountain-100 Black, 48","Young Adults (25-34)",33,1,3375
+Bikes,"Mountain Bikes","Mountain-100 Black, 38","Young Adults (25-34)",33,1,3375
+Bikes,"Mountain Bikes","Mountain-500 Silver, 52","Adults (35-64)",33,1,565
+Bikes,"Road Bikes","Road-550-W Yellow, 48","Youth (<25)",33,1,1120
+Bikes,"Mountain Bikes","Mountain-500 Silver, 48","Adults (35-64)",32,1,565
+Bikes,"Touring Bikes","Touring-3000 Blue, 54","Adults (35-64)",32,1,742
+Bikes,"Mountain Bikes","Mountain-100 Silver, 42","Adults (35-64)",31,1,3400
+Bikes,"Road Bikes","Road-650 Red, 44","Adults (35-64)",31,1,783
+Bikes,"Road Bikes","Road-650 Red, 58","Youth (<25)",28,1,783
+Bikes,"Touring Bikes","Touring-3000 Blue, 50","Adults (35-64)",28,1,742
+Bikes,"Touring Bikes","Touring-1000 Yellow, 60","Youth (<25)",28,1,2384
+Bikes,"Touring Bikes","Touring-2000 Blue, 60","Youth (<25)",28,1,1215
+Bikes,"Mountain Bikes","Mountain-100 Black, 44","Young Adults (25-34)",27,1,3375
+Bikes,"Mountain Bikes","Mountain-500 Black, 44","Youth (<25)",27,2,540
+Bikes,"Mountain Bikes","Mountain-500 Silver, 40","Young Adults (25-34)",27,1,565
+Bikes,"Touring Bikes","Touring-1000 Blue, 60","Youth (<25)",27,1,2384
+Bikes,"Mountain Bikes","Mountain-500 Silver, 52","Young Adults (25-34)",26,2,565
+Bikes,"Road Bikes","Road-650 Red, 52","Adults (35-64)",26,2,783
+Clothing,Shorts,"Women's Mountain Shorts, M","Seniors (64+)",26,7,70
+Bikes,"Touring Bikes","Touring-3000 Yellow, 50","Adults (35-64)",26,1,742
+Clothing,Shorts,"Women's Mountain Shorts, S","Seniors (64+)",25,13,70
+Bikes,"Touring Bikes","Touring-1000 Yellow, 46","Youth (<25)",25,1,2384
+Bikes,"Touring Bikes","Touring-3000 Blue, 50","Young Adults (25-34)",25,1,742
+Bikes,"Road Bikes","Road-650 Black, 44","Youth (<25)",24,2,783
+Bikes,"Touring Bikes","Touring-3000 Blue, 58","Youth (<25)",24,1,742
+Bikes,"Mountain Bikes","Mountain-500 Black, 52","Young Adults (25-34)",23,2,540
+Bikes,"Touring Bikes","Touring-3000 Yellow, 44","Youth (<25)",23,1,742
+Bikes,"Mountain Bikes","Mountain-100 Black, 38","Youth (<25)",22,1,3375
+Bikes,"Road Bikes","Road-250 Red, 52","Youth (<25)",22,3,2443
+Bikes,"Road Bikes","Road-650 Red, 52","Young Adults (25-34)",22,2,783
+Bikes,"Touring Bikes","Touring-3000 Yellow, 62","Young Adults (25-34)",22,1,742
+Bikes,"Road Bikes","Road-650 Black, 62","Youth (<25)",21,2,783
+Bikes,"Mountain Bikes","Mountain-100 Silver, 44","Young Adults (25-34)",20,2,3400
+Clothing,Socks,"Racing Socks, L","Seniors (64+)",20,10,9
+Clothing,Gloves,"Half-Finger Gloves, M","Seniors (64+)",19,5,24
+Bikes,"Mountain Bikes","Mountain-500 Silver, 44","Youth (<25)",19,2,565
+Clothing,Shorts,"Women's Mountain Shorts, L","Seniors (64+)",19,10,70
+Bikes,"Touring Bikes","Touring-3000 Yellow, 50","Youth (<25)",19,2,742
+Accessories,"Bike Stands","All-Purpose Bike Stand","Seniors (64+)",18,5,159
+Bikes,"Touring Bikes","Touring-3000 Blue, 54","Youth (<25)",18,2,742
+Bikes,"Mountain Bikes","Mountain-100 Silver, 38","Youth (<25)",17,1,3400
+Bikes,"Mountain Bikes","Mountain-500 Black, 42","Young Adults (25-34)",17,1,540
+Bikes,"Touring Bikes","Touring-1000 Yellow, 54","Youth (<25)",17,1,2384
+Bikes,"Mountain Bikes","Mountain-500 Silver, 42","Youth (<25)",16,2,565
+Bikes,"Mountain Bikes","Mountain-500 Silver, 48","Youth (<25)",16,2,565
+Bikes,"Touring Bikes","Touring-2000 Blue, 50","Youth (<25)",16,1,1215
+Bikes,"Mountain Bikes","Mountain-100 Black, 42","Young Adults (25-34)",15,1,3375
+Bikes,"Mountain Bikes","Mountain-500 Black, 48","Youth (<25)",15,2,540
+Bikes,"Road Bikes","Road-650 Black, 44","Young Adults (25-34)",15,1,783
+Bikes,"Mountain Bikes","Mountain-100 Black, 42","Youth (<25)",14,1,3375
+Bikes,"Touring Bikes","Touring-3000 Blue, 50","Youth (<25)",14,1,742
+Bikes,"Touring Bikes","Touring-3000 Yellow, 58","Youth (<25)",14,1,742
+Bikes,"Touring Bikes","Touring-3000 Yellow, 54","Youth (<25)",13,1,742
+Accessories,"Bike Stands","Hitch Rack - 4-Bike","Youth (<25)",12,3,120
+Bikes,"Mountain Bikes","Mountain-100 Black, 48","Youth (<25)",12,1,3375
+Bikes,"Mountain Bikes","Mountain-500 Black, 40","Youth (<25)",12,2,540
+Bikes,"Touring Bikes","Touring-1000 Blue, 50","Youth (<25)",12,1,2384
+Bikes,"Mountain Bikes","Mountain-500 Black, 52","Adults (35-64)",11,1,540
+Bikes,"Road Bikes","Road-650 Black, 48","Youth (<25)",11,2,783
+Accessories,"Tires and Tubes","HL Mountain Tire","Seniors (64+)",11,6,35
+Bikes,"Mountain Bikes","Mountain-100 Black, 44","Youth (<25)",10,1,3375
+Bikes,"Road Bikes","Road-250 Red, 48","Youth (<25)",10,2,2443
+Bikes,"Touring Bikes","Touring-3000 Yellow, 62","Youth (<25)",9,1,742
+Accessories,"Bike Racks","Hitch Rack - 4-Bike","Seniors (64+)",8,2,120
+Bikes,"Touring Bikes","Touring-2000 Blue, 54","Youth (<25)",8,1,1215
+Bikes,"Road Bikes","Road-650 Black, 52","Youth (<25)",7,1,783
+Bikes,"Touring Bikes","Touring-1000 Yellow, 50","Youth (<25)",7,1,2384
+Bikes,"Touring Bikes","Touring-3000 Blue, 62","Youth (<25)",7,1,742
+Bikes,"Mountain Bikes","Mountain-100 Silver, 44","Youth (<25)",6,2,3400
+Bikes,"Mountain Bikes","Mountain-500 Black, 52","Youth (<25)",6,3,540
+Bikes,"Mountain Bikes","Mountain-200 Silver, 38","Seniors (64+)",6,1,2320
+Bikes,"Mountain Bikes","Mountain-200 Silver, 42","Seniors (64+)",6,2,2320
+Bikes,"Mountain Bikes","Mountain-400-W Silver, 38","Seniors (64+)",6,2,769
+Bikes,"Mountain Bikes","Mountain-100 Black, 48","Seniors (64+)",6,3,3375
+Bikes,"Road Bikes","Road-250 Red, 58","Seniors (64+)",6,2,2443
+Bikes,"Touring Bikes","Touring-2000 Blue, 50","Seniors (64+)",6,2,1215
+Bikes,"Touring Bikes","Touring-3000 Blue, 44","Youth (<25)",6,2,742
+Clothing,Caps,"Water Bottle - 30 oz.","Young Adults (25-34)",4,2,5
+Bikes,"Mountain Bikes","Mountain-200 Black, 42","Seniors (64+)",4,1,2295
+Bikes,"Mountain Bikes","Mountain-400-W Silver, 40","Seniors (64+)",4,1,769
+Bikes,"Mountain Bikes","Mountain-500 Silver, 48","Young Adults (25-34)",4,1,565
+Bikes,"Mountain Bikes","Mountain-100 Silver, 42","Youth (<25)",4,1,3400
+Bikes,"Road Bikes","Road-650 Red, 60","Youth (<25)",4,1,783
+Bikes,"Road Bikes","Road-650 Red, 52","Youth (<25)",4,1,783
+Bikes,"Road Bikes","Road-650 Red, 62","Youth (<25)",4,1,783
+Bikes,"Road Bikes","Road-150 Red, 62","Seniors (64+)",4,2,3578
+Bikes,"Road Bikes","Road-250 Black, 48","Seniors (64+)",4,2,2443
+Bikes,"Road Bikes","Road-350-W Yellow, 42","Seniors (64+)",4,2,1701
+Bikes,"Road Bikes","Road-550-W Yellow, 40","Seniors (64+)",4,1,1120
+Bikes,"Mountain Bikes","Mountain-200 Silver, 46","Seniors (64+)",3,2,2320
+Bikes,"Road Bikes","Road-750 Black, 52","Seniors (64+)",3,2,540
+Bikes,"Road Bikes","Road-750 Black, 58","Seniors (64+)",3,2,540
+Bikes,"Road Bikes","Road-350-W Yellow, 40","Seniors (64+)",3,2,1701
+Bikes,"Road Bikes","Road-350-W Yellow, 48","Seniors (64+)",3,2,1701
+Bikes,"Touring Bikes","Touring-3000 Blue, 50","Seniors (64+)",3,2,742
+Bikes,"Road Bikes","Road-250 Red, 44","Seniors (64+)",2,1,2443
