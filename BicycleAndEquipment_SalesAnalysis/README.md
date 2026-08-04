@@ -1,5 +1,4 @@
 # E2E Bicycle & Equipment Sales Analysis  
-**Data & Financial Analyst Report | 2011 – 2016**
 
 ---
 
