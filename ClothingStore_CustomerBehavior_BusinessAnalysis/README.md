@@ -11,6 +11,16 @@ The analysis identifies key customer segments, product performance, shipping pre
 
 ---
 
+### Tools Used
+
+| Tool              |Purpose                              |
+|-------------------|--------------------------------------|
+| **SQL (MySQL)**   | Sorting, filtering, data cleaning    |
+|**Python — Pandas & NumPy**        | Calculations, cleaning, analysis |
+| **Power BI**      | Visualization and exploratory analysis |
+
+---
+
 ##  **Key Findings**
 
 ### 1. Gender Distribution & Revenue Contribution
