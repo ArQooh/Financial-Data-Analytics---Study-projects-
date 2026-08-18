@@ -2,7 +2,7 @@
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 This is my first end-to-end analytical project.  
 I filtered, cleaned, sorted and analyzed large-scale sales data of a company operating in the **bicycle and equipment** sector for the period **2011–2016**.
