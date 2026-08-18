@@ -15,8 +15,8 @@ The analysis identifies key customer segments, product performance, shipping pre
 
 | Tool              |Purpose                              |
 |-------------------|--------------------------------------|
-| **SQL (MySQL)**   | Sorting, filtering, data cleaning    |
-|**Python — Pandas & NumPy**        | Calculations, cleaning, analysis |
+| **SQL (MySQL)**   | Sorting, filtering, analysis    |
+|**Python — Pandas & NumPy** | Calculations, data cleaning, analysis |
 | **Power BI**      | Visualization and exploratory analysis |
 
 ---
