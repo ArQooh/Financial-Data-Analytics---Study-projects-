@@ -109,7 +109,7 @@ Rather than focusing only on technical data processing, the projects emphasize t
 
 ---
 
-## 👤 Author
+## Author
 
 **Daniil Vereteno**
 
