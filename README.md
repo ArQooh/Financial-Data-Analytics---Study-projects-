@@ -11,7 +11,7 @@ The projects demonstrate the application of data analysis techniques to business
 | # | Project | Main Focus |
 |---|---------|------------|
 | 1 | **[Business Sales Analysis](BicycleAndEquipment_SalesAnalysis)** | Sales performance, revenue, profitability, product and business performance |
-| 2 | **[Customer Behavior Analysi](ClothingStore_CustomerBehavior_Business Analysis)** | Customer segments, purchasing behavior, loyalty, subscriptions, products and geographic performance |
+| 2 | **[Customer Behavior Analysi](ClothingStore_CustomerBehavior_BusinessAnalysis)** | Customer segments, purchasing behavior, loyalty, subscriptions, products and geographic performance |
 
 ---
 
@@ -47,7 +47,7 @@ The analysis is designed to answer questions such as:
 
 ---
 
-# 2. **[Customer Behavior Analysis](ClothingStore_CustomerBehavior_Business Analysis)**
+# 2. **[Customer Behavior Analysis](ClothingStore_CustomerBehavior_BusinessAnalysis)**
 
 ## Project Overview
 
