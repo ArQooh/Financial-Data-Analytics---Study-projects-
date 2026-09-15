@@ -11,7 +11,8 @@ The projects demonstrate the application of data analysis techniques to business
 | # | Project | Main Focus |
 |---|---------|------------|
 | 1 | **[Business Sales Analysis](BicycleAndEquipment_SalesAnalysis)** | Sales performance, revenue, profitability, product and business performance |
-| 2 | **[Customer Behavior Analysi](ClothingStore_CustomerBehavior_BusinessAnalysis)** | Customer segments, purchasing behavior, loyalty, subscriptions, products and geographic performance |
+| 2 | **[Customer Behavior Analysis](ClothingStore_CustomerBehavior_BusinessAnalysis)** | Customer segments, purchasing behavior, loyalty, subscriptions, products and geographic performance |
+| 3 | **[Marketing Campaings Analysis](MarketingCampains_Analysis)** | Campaing performance, clicks and click rate, CPA, CPC, CPM, |
 
 ---
 
